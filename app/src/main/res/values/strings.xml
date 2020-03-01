@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Native Player</string>
+    <string name="browse">Browse</string>
+    <string name="upload">Upload</string>
+    <string name="downloads">Downloads</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title">Enter a title for the video</string>
+    <string name="leave_me_alone">Leave Me Alone</string>
+    <string name="duration">5.13</string>
+    <string name="thumbnail_for_video">thumbnail for video</string>
+    <string name="Full">Please Buy the full version for this functionality</string>
+    <string name="long_press_on_item_to_start_downloading">Long press on item to start downloading</string>
+
+
+</resources>
